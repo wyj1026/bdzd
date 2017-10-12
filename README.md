@@ -16,7 +16,8 @@ or you can install it:
 then you can use the command everywhere you like.
 
 ## Requirements ##
-    The script requres requests and pyquery.
+    The script requres requests, pyquery and click.
+
 
 ## Author ##
 * Yijie Wang
