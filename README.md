@@ -15,5 +15,8 @@ or you can install it:
     python setup.py install
 then you can use the command everywhere you like.
 
+## Requirements ##
+    The script requres requests and pyquery.
+
 ## Author ##
-* yijie wang
+* Yijie Wang

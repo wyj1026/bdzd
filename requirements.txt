@@ -1,0 +1,4 @@
+click==6.7
+pyquery==1.2.11
+requests==2.9.1
+requests-cache==0.4.11
