@@ -9,6 +9,10 @@
     cd bdzd
     python bdzd.py [option] question
     ex: python -n 2 如何取得好成绩？
+or you can install it:
+    cd bdzd
+    python setup.py install
+then you can use the command everywhere you like.
 
 ## Author ##
 * yijie wang
